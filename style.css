@@ -201,6 +201,7 @@ nav .navigation ul li a:hover {
   border-radius: 16px;
   transition: ease 200ms;
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
 }
 
 #features .fea-box:hover {
